@@ -1,4 +1,4 @@
-Welcome to challenge #1
+Welcome to Ruby challenge #1
 
 To clone or download the challenge
 Click on 'Code'
